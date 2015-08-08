@@ -12,7 +12,7 @@ Npm.depends({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.addFiles('deanius:octokat.js', 'server');
+  api.addFiles('octokat.js', 'server');
   api.export('Octokat');
 });
 
