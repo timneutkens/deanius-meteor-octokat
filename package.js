@@ -1,13 +1,13 @@
 Package.describe({
   name: 'deanius:octokat',
-  version: '0.4.9',
+  version: '0.4.11',
   summary: 'Meteor wrapper around Github APIs, via OctoKat NPM module',
   git: 'https://github.com/chicagogrooves/deanius-meteor-octokat',
   documentation: 'README.md'
 });
 
 Npm.depends({
-  octokat: '0.4.9'
+  octokat: '0.4.11'
 });
 
 Package.onUse(function(api) {

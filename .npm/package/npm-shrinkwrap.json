@@ -1,10 +1,10 @@
 {
   "dependencies": {
     "octokat": {
-      "version": "0.4.9",
+      "version": "0.4.11",
       "dependencies": {
         "es6-promise": {
-          "version": "0.1.2"
+          "version": "2.1.1"
         },
         "xmlhttprequest": {
           "version": "1.7.0"
